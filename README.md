@@ -23,8 +23,8 @@ Para la ejecución del algoritmo se deben seguir los siguientes pasos:
                 javac Main.java
                
 - el programa viene con parametros de entrada predeterminados estos son 
-capacidad mochila 300;
-valores de objetos { 20, 15, 13, 80, 82, 87, 90, 115, 118, 120};
-peso de objetos  { 135 , 139, 184, 192, 201, 210, 214, 221, 229, 240};
+- capacidad mochila 300;
+- valores de objetos { 20, 15, 13, 80, 82, 87, 90, 115, 118, 120};
+- peso de objetos  { 135 , 139, 184, 192, 201, 210, 214, 221, 229, 240};
 
 Con la realización de todos los pasos mencionados anteriormente es posbible ejecutar el programa.
