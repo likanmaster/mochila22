@@ -6,21 +6,18 @@ Este código resuelve el problemas de cargar objetos de diferentes valores y pes
 
 Para la ejecución del algoritmo se deben seguir los siguientes pasos:
 
-- Primero abrir la terminal de Linux
+- Primero abrir la consola de comandos
 
-- Luego se debe clonar el repositorio remoto en el repositorio local utilizando el siguiente comando:
+- Luego se debe situar en la carpeta donde guardo los archivos del programa 
+- a continuación se escribe el comando
  
-          git clone https://github.com/likanmaster/mochila22.git
+          javac mochila2.java
 
-- Para poder clonar el repositorio luego de ejecutar el comando anterior, se solicitara el nombre de usuario y contraseña que deben ser ingresados por la persona que esta ejecutando el algoritmo
+- luego se ejecuta el archivo compilado
+
  
-- El siguiente paso es acceder a la carpeta del repositorio local que se creo inicialmente, para esto es necesario cambiarse de directorio con el comando cd, como el siguiente ejemplo, en caso de que la carpeta se llame n_reinas se de usar el comando de la siguiente forma:
- 
-           cd n_reinas/src/mochila22
+           java mochila2
 
-- Luego primero se debe compilar el programa con la siguiente instrucción
-
-                javac Main.java
                
 - el programa viene con parametros de entrada predeterminados estos son 
 - capacidad mochila 300;
