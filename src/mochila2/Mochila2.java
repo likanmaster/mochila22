@@ -3,7 +3,7 @@ package mochila2;
 import java.util.Random;
 /**
  *
- * @author jose
+ * @author jose licancura
  * 
  */
 public class Mochila2 {
