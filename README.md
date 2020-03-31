@@ -11,12 +11,12 @@ Para la ejecución del algoritmo se deben seguir los siguientes pasos:
 - Luego se debe situar en la carpeta donde guardo los archivos del programa 
 - a continuación se escribe el comando
  
-          javac mochila2.java
+          javac Mochila2.java
 
 - luego se ejecuta el archivo compilado
 
  
-           java mochila2
+           java Mochila2
 
                
 - el programa viene con parametros de entrada predeterminados estos son 
